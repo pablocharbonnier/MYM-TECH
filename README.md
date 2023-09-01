@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# M&M TECHNOLOGY 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Descripcion
 
 In the project directory, you can run:
 
